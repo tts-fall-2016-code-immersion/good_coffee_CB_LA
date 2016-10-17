@@ -1,0 +1,68 @@
+body {
+  font-family: 'Raleway', 'sans-serif';
+  background-color: #A2DED0;
+}
+.jumbotron {
+  background-image: url("../images/Drip_Coffee_Bangkok.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin-top: -40px;
+  padding: 20% 20% 20% 20%;
+  background-attachment: fixed;
+  background-position: center -238px;
+}
+.jumbotron h1 {
+  position: absolute;
+  left: 0;
+  margin-top: -10px;
+  padding-left: 20px;
+  color: #F7FAFE;
+}
+.mission {
+  background-color: #323232;
+  color: #f7FAFE;
+  margin-top:-30px;
+}
+.mission h3 {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-align: center;
+}
+.features {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 0;
+  padding-right: 0;
+}
+.features p {
+  font: Muli, sans-serif;
+  text-align: center;
+  font-size: 1.2em;
+  padding-top: 10px;
+  color: #323232;
+}
+footer {
+  background-color: #D64541;
+  position: absolute;
+  width: 100%;
+  height: auto;
+}
+footer li {
+  display: inline-block;
+  text-decoration: none;
+  padding: 2%;
+  float: right;
+}
+footer p {
+  float: left;
+  padding: 2%;
+  color: #fff;
+}
+footer li, footer p {
+  vertical-align: middle;
+  color: #fff;
+}
+<!-- primary color A2DED0 secondary colors 323232 and D64541 -->
